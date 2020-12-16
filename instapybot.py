@@ -3,7 +3,7 @@
 # extract chromedriver in any folder from c drive or create new dir for webdrivers
 # copy full path of the file and pass it as keyword argument in webdriver.chrome method
 # change the time.sleep methods argument according to the response time of instagram
-
+# Updated file
 from selenium import webdriver
 from cred import username, password, recovery_code
 import time
